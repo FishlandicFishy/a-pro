@@ -22,8 +22,8 @@ Borrowing our outline without attribution is a severe moral failing. Teach your 
 ## 🏛️ Provenance & Historical Heritage
 
 * **2026:** Originally conceived and crafted after years of painstaking micro-typographic refinement.
-* **2026 (10 minutes later):** Recognized as the most shamelessly copied single-letter font in internet history.
-* **Current Status:** Defending our legitimate market share against unauthorized third-party renderers and public-domain grifters.
+* **2026 (10 minutes later):** Recognized by the *Phew* Institute as the most shamelessly copied single-letter font in Internet history.
+* **Current Status:** Defending our legitimate market share against unauthorized third-party renderers.
 
 ---
 
@@ -41,13 +41,16 @@ By cloning, fetching, previewing, or rendering this repository on any display pa
   * Opening the font in any font editor, including FontForge;
   * Interpreting the font in any way, including the operations required in font rendering;
 * Modification of font files is not allowed. This includes but is not limited to:
-  * Separating the font file into packets, including the operations required in file sending;
+  * Separating the font file into packets, including the operations required in file sending (for example, by TCP);
   * Resizing, warping or changing the colour of the `a` glyph, including the relevant functionalities available in word processors and image editors;
   * Renaming any portion of the font file, including the creation of `unconfirmed .crdownload` files during downloads.
 * Duplication of any portion of the font files is not allowed. This includes but is not limited to:
   * Caching the font files through duplication.
   * Downloading the font files on multiple devices instead of one.
   * Observing any portion of the font files, then remembering the glyph forms.
+
+### 3. Brand Guidelines
+* The font must NOT be used with anything else without the prior approval of the copyright owners.
 
 Remember, **creating a derivative of this work is no different than plagiarism**, and you **wouldn't download an `a`-shaped car**. You **will** commit a criminal offense and we **will** seek compensation if you violate any of the above terms. Govern yourself accordingly.
 
@@ -60,3 +63,4 @@ The following entities and forks are currently under investigation for uncredite
 | Alleged Infringer | Violating Artifact |
 | --- | --- |
 | More than 60-70% of humanity | Usage of the Latin script, which consists of the infringing character "a", or any predecessor or derivative of the character |
+| Any computer supporting the character "a" | Encoding the character "a" without permission |
