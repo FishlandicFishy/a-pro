@@ -52,7 +52,7 @@ By cloning, fetching, previewing, or rendering this repository on any display pa
 ### 3. Brand Guidelines
 * The font must NOT be used with anything else without the prior approval of the copyright owners.
 
-Remember, **creating a derivative of this work is no different than plagiarism**, and you **wouldn't download an `a`-shaped car**. You **will** commit a criminal offense and we **will** seek compensation if you violate any of the above terms. Govern yourself accordingly.
+Remember, **creating a derivative of this work is no different than plagiarism**, and you **wouldn't download an `a`-shaped car**. You **would be** committing a criminal offense and we **will** seek compensation if you violate any of the above terms. Govern yourself accordingly.
 
 ---
 
