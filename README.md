@@ -1,15 +1,15 @@
-# 🅰️ a pro™ (Ultimate Enterprise Edition)
+# a pro™ (Ultimate Enterprise Edition)
 > **The World’s Premier, Fully Authentic, First-Mover Lowercase "a" Typeface System.**
 > *Established in 2026, the most-plagiarised Latin letter of the most exquisite craftsmanship.*
 
 ---
 ## DISCLAIMER
 
-This repository is a PARODY of practices related to IP grifting. Below is mostly written by a clanker.
+This repository is a PARODY of practices related to IP grifting. The font is dedicated to the public domain; none of the below restrictions apply. Below is mostly written by a clanker.
 
 ---
 
-### ⚠️ NOTICE TO ALL INDUSTRY PEERS, COMPETITORS, AND FORKERS
+### NOTICE TO ALL INDUSTRY PEERS, COMPETITORS, AND FORKERS
 
 It has come to our attention that various low-quality, bad-faith "open source" bad actors and competitor repositories have attempted to reproduce, render, or subtly mimic the double-story loop, counter space, and terminal stem of our signature character **U+0061 (lowercase "a")**. 
 
@@ -19,7 +19,7 @@ Borrowing our outline without attribution is a severe moral failing. Teach your 
 
 ---
 
-## 🏛️ Provenance & Historical Heritage
+## Provenance & Historical Heritage
 
 * **2026:** Originally conceived and crafted after years of painstaking micro-typographic refinement.
 * **2026 (10 minutes later):** Recognized by the *Phew* Institute as the most shamelessly copied single-letter font in Internet history.
@@ -27,7 +27,7 @@ Borrowing our outline without attribution is a severe moral failing. Teach your 
 
 ---
 
-## 📜 End-User & Competitor License Agreement (EUCLA-PRO-v1.01)
+## End-User & Competitor License Agreement (EUCLA-PRO-v1.01)
 
 By cloning, fetching, previewing, or rendering this repository on any display panel, monitor, or smart kitchen appliance, you agree to the following legally binding covenants:
 
@@ -56,7 +56,9 @@ Remember, **creating a derivative of this work is no different than plagiarism**
 
 ---
 
-## 🚫 Wall of Shame & Cheater Registry
+## Wall of Shame & Cheater Registry
+
+Unfortunately, the innovation behind `a pro` is jeopardised by those who seek to impede further development by discouraging the creators of `a pro` from innovating.
 
 The following entities and forks are currently under investigation for uncredited usage of circular counter-clockwise curves similar to `a pro`:
 
@@ -64,3 +66,5 @@ The following entities and forks are currently under investigation for uncredite
 | --- | --- |
 | More than 60-70% of humanity | Usage of the Latin script, which consists of the infringing character "a", or any predecessor or derivative of the character |
 | Any computer supporting the character "a" | Encoding the character "a" without permission |
+
+Remember that **your comfort with using the character "a" since, I don't know, kindergarten or something, is NOT a shield for your selfish crimes**. If this offends you, that's because **I am talking about people like you**.
